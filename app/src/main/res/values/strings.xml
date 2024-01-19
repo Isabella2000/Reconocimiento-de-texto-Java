@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Reconocimieno de texto - Java</string>
+
+    <string name="BtnReconocer">Reconocer texto</string>
+    <string name="BtnAcercaDe">Acerca De</string>
+    <string name="BtnSalir">Salir</string>
+    <string name="ReconocerTexto">Reconocer texto</string>
+    <string name="ReconocerTXT">Texto reconocido:</string>
+    <string name="TextoReconocidoEt"> -- </string>
+    <string name="Menu_abrir_galeria">Abrir galeria</string>
+    <string name="Menu_abrir_camara">Abrir camara</string>
+    <string name="DesarrolladorTxt">Desarrollado por: Isabella Canelita</string>
+    <string name="EmailTxt">Email: canelaxxxpiquitosjajaj</string>
+    <string name="VersionTxt">Verson: 1.0</string>
+    <string name="BtnEntendido">Entendido</string>
+
+
+</resources>
